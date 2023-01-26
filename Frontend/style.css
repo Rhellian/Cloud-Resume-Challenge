@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* Future personal website integration
@@ -15,15 +16,35 @@ header {
     align-items: center;
 }
 
-/*
-.contact_info {
+h1 {
+    font-size: 48px;
+}
 
+h2,
+h3 {
+    font-size: 24px;
+    font-style: oblique;
+}
+
+h4 {
+    font: 16px normal;
+    font-style: none;
+}
+
+.contact_info {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.contact_info img {
+    max-height: 32px;
 }
 
 .contact_info a {
-
+    text-decoration: none;
+    color: black;
 }
-*/
 
 .content_sections,
 .container_entry {
