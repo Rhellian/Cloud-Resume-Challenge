@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Future personal website integration
+header {
+
+}
+*/
+
+.headline {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*
+.contact_info {
+
+}
+
+.contact_info ul {
+
+}
+
+.contact_info a {
+
+}
+*/
+
+.content_sections,
+.container_entry {
+    display: flex;
+    flex-direction: column;
+}
+
+.work_experience,
+.education,
+.certifications,
+.projects {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Future personal website integration
+footer {
+
+}
+*/
