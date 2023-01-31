@@ -43,6 +43,12 @@ section div {
     color: #ddd;
 }
 
+.contact_info img {
+    height: 20px;
+    width: auto;
+    margin-right: 5px;
+}
+
 .projects {
     border: none;
 }
