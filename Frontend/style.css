@@ -49,6 +49,10 @@ section div {
     margin-right: 5px;
 }
 
+.entry .date {
+    font-style: italic;
+}
+
 .projects {
     border: none;
 }
