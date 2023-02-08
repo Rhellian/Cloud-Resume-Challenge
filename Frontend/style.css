@@ -43,12 +43,6 @@ section div {
     color: #ddd;
 }
 
-.contact_info svg {
-    height: 20px;
-    width: auto;
-    margin-right: 5px;
-}
-
 .entry .date {
     font-style: italic;
 }
